@@ -4,9 +4,9 @@
 // Author: Hongyi Wu(吴鸿毅)
 // Email: wuhongyi@qq.com 
 // Created: Thu Apr 28 22:11:05 2016 (+0800)
-// Last-Updated: Sat Apr 30 09:41:08 2016 (+0800)
+// Last-Updated: Sat Sep  3 12:35:06 2016 (+0800)
 //           By: Hongyi Wu(吴鸿毅)
-//     Update #: 32
+//     Update #: 33
 // URL: http://wuhongyi.github.io 
 
 #ifndef _DIGITIZERGLOBALS_H_
@@ -25,7 +25,7 @@
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
 // module number
-#define MAXNB_V1724  1
+#define MAXNB_V1724  2
 #define MAXNB  (MAXNB_V1724) 
 
 #define CANVASX 800

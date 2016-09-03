@@ -4,9 +4,9 @@
 # Author: Hongyi Wu(吴鸿毅)
 # Email: wuhongyi@qq.com 
 # Created: 日 4月 24 15:24:50 2016 (+0800)
-# Last-Updated: 六 4月 30 13:42:14 2016 (+0800)
+# Last-Updated: Fri Sep  2 16:07:32 2016 (+0800)
 #           By: Hongyi Wu(吴鸿毅)
-#     Update #: 34
+#     Update #: 35
 # URL: http://wuhongyi.github.io 
 
 cmake_minimum_required(VERSION 2.6 FATAL_ERROR)
@@ -20,11 +20,11 @@ project(${PROJ_NAME})
 #SET(CMAKE_BUILD_TYPE Debug)
 
 ##C99  ROOT不支持C++11采用以下两行
-#set(CMAKE_CXX_FLAGS " -fPIC -W -Wall -s")#
-#set(CMAKE_C_FLAGS " -fPIC -W -Wall -s")#
+set(CMAKE_CXX_FLAGS " -fPIC -W -Wall -s")#
+set(CMAKE_C_FLAGS " -fPIC -W -Wall -s")#
 ##C++11  ROOT支持C++11采用以下两行
-set(CMAKE_CXX_FLAGS "-std=c++11  -fPIC -W -Wall -s")#
-set(CMAKE_C_FLAGS "-std=c++11  -fPIC   -W -Wall -s")#
+#set(CMAKE_CXX_FLAGS "-std=c++11  -fPIC -W -Wall -s")#
+#set(CMAKE_C_FLAGS "-std=c++11  -fPIC   -W -Wall -s")#
 
 #----------------------------------------------------------------------------
 

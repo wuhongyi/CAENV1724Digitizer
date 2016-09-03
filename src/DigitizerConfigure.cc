@@ -4,9 +4,9 @@
 // Author: Hongyi Wu(吴鸿毅)
 // Email: wuhongyi@qq.com 
 // Created: Thu Apr 28 22:16:56 2016 (+0800)
-// Last-Updated: 四 6月 23 17:30:53 2016 (+0800)
+// Last-Updated: Sat Sep  3 12:58:33 2016 (+0800)
 //           By: Hongyi Wu(吴鸿毅)
-//     Update #: 178
+//     Update #: 180
 // URL: http://wuhongyi.github.io 
 
 #include "DigitizerGlobals.hh"
@@ -428,7 +428,7 @@ int DigitizerInit(CAEN_DGTZ_DPP_PHA_Params_t *PKU_DGTZ_DPPParams,DigitizerParams
   // Open the digitizer and read board information   
   for(b=0; b<MAXNB; b++)
     {
-      ret = CAEN_DGTZ_OpenDigitizer(PKU_DGTZ_Params->LinkType, PKU_DGTZ_Params->LinkNum, PKU_DGTZ_Params->ConetNode, PKU_DGTZ_Params->VMEBaseAddress, &PKU_DGTZ_handle[b]);//
+      ret = CAEN_DGTZ_OpenDigitizer(PKU_DGTZ_Params[b].LinkType, PKU_DGTZ_Params[b].LinkNum, PKU_DGTZ_Params[b].ConetNode, PKU_DGTZ_Params[b].VMEBaseAddress, &PKU_DGTZ_handle[b]);//
       if (ret) 
 	{
 	  printf("Can't open digitizer %d\n",b);
