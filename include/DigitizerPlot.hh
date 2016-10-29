@@ -7,7 +7,7 @@
 // Last-Updated: 三 4月 27 19:03:28 2016 (+0800)
 //           By: Hongyi Wu(吴鸿毅)
 //     Update #: 1
-// URL: http://wuhongyi.github.io 
+// URL: http://wuhongyi.cn 
 
 #ifndef _DIGITIZERPLOT_H_
 #define _DIGITIZERPLOT_H_

@@ -7,7 +7,7 @@
 // Last-Updated: Sat Sep  3 12:35:06 2016 (+0800)
 //           By: Hongyi Wu(吴鸿毅)
 //     Update #: 33
-// URL: http://wuhongyi.github.io 
+// URL: http://wuhongyi.cn 
 
 #ifndef _DIGITIZERGLOBALS_H_
 #define _DIGITIZERGLOBALS_H_

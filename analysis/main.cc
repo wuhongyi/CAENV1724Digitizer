@@ -7,7 +7,7 @@
 // Last-Updated: 一 6月 13 21:23:08 2016 (+0800)
 //           By: Hongyi Wu(吴鸿毅)
 //     Update #: 19
-// URL: http://wuhongyi.github.io 
+// URL: http://wuhongyi.cn 
 
 #include <cstdio>
 #include <cstdlib>

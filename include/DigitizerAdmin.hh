@@ -7,7 +7,7 @@
 // Last-Updated: 六 4月 30 13:07:58 2016 (+0800)
 //           By: Hongyi Wu(吴鸿毅)
 //     Update #: 39
-// URL: http://wuhongyi.github.io 
+// URL: http://wuhongyi.cn 
 
 #ifndef _DIGITIZERADMIN_H_
 #define _DIGITIZERADMIN_H_

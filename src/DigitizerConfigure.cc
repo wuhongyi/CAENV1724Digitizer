@@ -7,7 +7,7 @@
 // Last-Updated: Sat Sep  3 12:58:33 2016 (+0800)
 //           By: Hongyi Wu(吴鸿毅)
 //     Update #: 180
-// URL: http://wuhongyi.github.io 
+// URL: http://wuhongyi.cn 
 
 #include "DigitizerGlobals.hh"
 #include "DigitizerConfigure.hh"

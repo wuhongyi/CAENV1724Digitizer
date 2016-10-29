@@ -7,7 +7,7 @@
 // Last-Updated: 五 5月  6 09:10:28 2016 (+0800)
 //           By: Hongyi Wu(吴鸿毅)
 //     Update #: 95
-// URL: http://wuhongyi.github.io 
+// URL: http://wuhongyi.cn 
 
 #include <unistd.h>//要求6.00.00及以上才能被调用
 #include <fcntl.h>//要求6.0.0及以上才能被调用

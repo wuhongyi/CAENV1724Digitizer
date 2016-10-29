@@ -7,7 +7,7 @@
 // Last-Updated: Fri Apr 29 19:25:14 2016 (+0800)
 //           By: Hongyi Wu(吴鸿毅)
 //     Update #: 37
-// URL: http://wuhongyi.github.io 
+// URL: http://wuhongyi.cn 
 
 #ifndef _DIGITIZERCONFIGURE_H_
 #define _DIGITIZERCONFIGURE_H_

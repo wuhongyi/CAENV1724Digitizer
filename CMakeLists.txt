@@ -7,7 +7,7 @@
 # Last-Updated: 一 9月 12 21:09:17 2016 (+0800)
 #           By: Hongyi Wu(吴鸿毅)
 #     Update #: 36
-# URL: http://wuhongyi.github.io 
+# URL: http://wuhongyi.cn 
 
 cmake_minimum_required(VERSION 2.6 FATAL_ERROR)
 #SET(CMAKE_SYSTEM_NAME Linux)

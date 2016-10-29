@@ -7,7 +7,7 @@
 // Last-Updated: Fri Apr 29 19:25:03 2016 (+0800)
 //           By: Hongyi Wu(吴鸿毅)
 //     Update #: 92
-// URL: http://wuhongyi.github.io 
+// URL: http://wuhongyi.cn 
 
 #include "DigitizerUser.hh"
 #include "DigitizerAdmin.hh"
